@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on crunching numbers. 
-I want an alogrithim that helps predict a set of 5 numbers.
+I want an a algorithm that helps predict a set of 5 numbers.
 - 📫 How to reach me is tru my email. 
 
 <!---
